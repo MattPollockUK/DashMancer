@@ -50,11 +50,11 @@ Many businesses and individuals struggle to understand their data quickly, combi
 - Matplotlib  
 
 ## 🖼️ Screenshots
-<!-- ADD SCREENSHOTS HERE AFTER TAKING SOME FROM LOCAL RUN -->
-<!-- Example: -->
-<!-- ![Superstore Dashboard](screenshots/superstore.png) -->
-<!-- ![Toyota Analysis](screenshots/toyota.png) -->
-<!-- ![Recipe Prediction](screenshots/recipe.png) -->
+![Superstore Dashboard](screenshots/Superstore.png "Superstore Sales Analysis")  
+![Toyota Dashboard 1](screenshots/Toyota1.png "Toyota Used Car Analysis - Part 1")  
+![Toyota Dashboard 2](screenshots/Toyota2.png "Toyota Used Car Analysis - Part 2")  
+![Recipe Prediction 1](screenshots/Recipe1.png "Recipe Traffic Prediction - Part 1")  
+![Recipe Prediction 2](screenshots/Recipe2.png "Recipe Traffic Prediction - Part 2")
 
 ## 👨‍💻 About Me
 I’m a junior data analyst focused on building interactive dashboards and data-driven solutions. I enjoy turning raw data into actionable insights and creating tools that help people understand information clearly and quickly. I’m always exploring ways to combine analytics, visualization, and Python development to create projects that are both functional and easy to use.
