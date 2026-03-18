@@ -53,10 +53,6 @@ git clone https://github.com/MattPollockUK/DashMancer.git
 cd DashMancer
 ```
 
-Install the required Python libraries
-
-```bash
-pip install -r requirements.txt
 ```
 
 Run the Streamlit dashboard
